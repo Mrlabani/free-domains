@@ -9,5 +9,5 @@ addSubDomain({
   record: {
     CNAME: "cname.onrender.com",
   },
-  proxy: true,
+  proxy: false,
 });
