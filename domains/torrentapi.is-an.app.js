@@ -9,5 +9,5 @@ addSubDomain({
   record: {
     CNAME: "torrent-api-py-ftbc.onrender.com",
   },
-  proxy: false,
+  proxy: true,
 });
