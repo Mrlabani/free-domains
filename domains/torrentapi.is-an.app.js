@@ -7,7 +7,7 @@ addSubDomain({
     email: "noob.devs@outlook.com",
   },
   record: {
-    CNAME: "torrent-api-py-ftbc.onrender.com",
+    CNAME: "cname.onrender.com",
   },
   proxy: true,
 });
